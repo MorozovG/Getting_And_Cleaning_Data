@@ -61,7 +61,7 @@ names(data) <- c("subject", "activity", filt.feat)
 # set with the average of each variable for each activity and each subject.
 # ------------------------------------------------------------------------------
 tidy.data <- data %>% group_by(subject, activity ) %>% summarise_each(funs(mean)) %>%
-        gather("measurement", "mean", -activity, -subject)
+        gather("measurement", "average", -activity, -subject)
 
 # Save the data into the file
 write.table(tidy.data, file="tidy_data.txt", row.name=FALSE)

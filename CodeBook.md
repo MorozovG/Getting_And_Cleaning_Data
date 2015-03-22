@@ -131,6 +131,6 @@ The name of the measurement for which the mean is calculated. This variable can 
 "frequency-body-gyro-jerk-magnitude-mean"        
 "frequency-body-gyro-jerk-magnitude-std"  
 
-### mean
+### average
 
-The mean of the measurements.
+The average of the measurements.

@@ -1,4 +1,4 @@
-"subject" "activity" "measurement" "mean"
+"subject" "activity" "measurement" "average"
 1 "WALKING" "time-body-acceleration-mean-x" 0.277330758736842
 1 "WALKING_UPSTAIRS" "time-body-acceleration-mean-x" 0.255461689622641
 1 "WALKING_DOWNSTAIRS" "time-body-acceleration-mean-x" 0.289188320408163
