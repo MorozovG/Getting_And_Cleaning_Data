@@ -1,6 +1,6 @@
 ---
 title: "README"
-author: "PrideNN"
+author: "Morozov Gleb"
 date: "Saturday, March 21, 2015"
 output: html_document
 ---
